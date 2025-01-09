@@ -5,7 +5,7 @@
     - Number of ratings,
     - Average rating above 3.5 stars,
     - and Minumum number of ratings to be considered.
-  We believe these criteria manage to build a list that is accurate and reflects an overall sense of what the public beleive is a popular movie. Popular movies tend to have a higher number of ratings as many it has reached
+  * We believe these criteria manage to build a list that is accurate and reflects an overall sense of what the public beleive is a popular movie. Popular movies tend to have a higher number of ratings as many it has reached
   a larger audience. Combined with the average rating above 3.5 stars, the list is narrowed to high audience films with really good feedback. The final criteria allows us to explore older films, as newer films usually have
   lower number of ratings.
 
