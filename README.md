@@ -19,3 +19,4 @@
     - Use the ratings provided by the user as input for your myIBCF function.
     - Display 10 movie recommendations for the user based on their ratings.
 - The App source code can be found under my partner's github: <https://github.com/ykhan21/MovieRecommender>
+- If you want to check the App out, here is the link: <https://a-movie-recommender.streamlit.app/>
