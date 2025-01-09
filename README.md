@@ -1,6 +1,6 @@
 # CS-598-Practical-Statistical-Learning
 - Course Project for CS 598 - Practical Statistical Learning.
-- Project done with the help of Yusuf Khan, given by course staff to build movie recommender systems based on the following:
+- Project done with the help of Yusuf Khan (@ykhan21), given by course staff to build movie recommender systems based on the following:
   - System I - Recommendation Based on Genres. We were given the liberty to choose what characteristics made a movie popular. As discussed in the project, we chose:
     - Number of ratings,
     - Average rating above 3.5 stars,
@@ -18,3 +18,4 @@
     - Present users with a set of sample movies and ask them to rate them.
     - Use the ratings provided by the user as input for your myIBCF function.
     - Display 10 movie recommendations for the user based on their ratings.
+- The App source code can be found under my partner's github: <https://github.com/ykhan21/MovieRecommender>
